@@ -2,7 +2,7 @@
 
 ## About IsItFridayYet?
 
-A .less docker container helps you track the coolest days of the week.
+A .less docker container helps you track the coolest day of the week.
 
 ## Pull from docker
 
